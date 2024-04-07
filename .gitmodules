@@ -1,0 +1,3 @@
+[submodule "VirtualPiano"]
+	path = VirtualPiano
+	url = https://github.com/livioribeiro/VirtualPiano.git
